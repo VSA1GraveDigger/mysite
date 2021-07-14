@@ -9,7 +9,6 @@ on:
 jobs:
   cppcheck:
 
-
     runs-on: ubuntu-latest
 
     steps:
