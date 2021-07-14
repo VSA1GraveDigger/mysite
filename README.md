@@ -6,6 +6,7 @@
 
 Build | Code Quality | Unity | Git Inspector | Code Instpector
 |---------|------------|-----------|----------------|-----------
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7b4e6ce38f944480988c61f740d6f9e7)](https://app.codacy.com/gh/VSA1GraveDigger/mysite?utm_source=github.com&utm_medium=referral&utm_content=VSA1GraveDigger/mysite&utm_campaign=Badge_Grade_Settings)
 [![C/C++ CI](https://github.com/Govardhan-Mogili/mini-project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Govardhan-Mogili/mini-project/actions/workflows/c-cpp.yml)|[![Static Check](https://github.com/Govardhan-Mogili/mini-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Govardhan-Mogili/mini-project/actions/workflows/cppcheck.yml)[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Govardhan-Mogili/mini-project/actions/workflows/dynamic-code-quality.yml/badge.svg)](https://github.com/Govardhan-Mogili/mini-project/actions/workflows/dynamic-code-quality.yml) | [![Unity-Check](https://github.com/Govardhan-Mogili/mini-project/actions/workflows/unity.yml/badge.svg)](https://github.com/Govardhan-Mogili/mini-project/actions/workflows/unity.yml) |[![git inspector CI](https://github.com/Govardhan-Mogili/mini-project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Govardhan-Mogili/mini-project/actions/workflows/gitinspector.yml) |[![Code-Instpector](https://www.code-inspector.com/project/25168/score/svg)](https://www.code-inspector.com/project/25168/status/svg)  |
 
 ## Folder Structure
